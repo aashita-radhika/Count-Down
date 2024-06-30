@@ -44,6 +44,10 @@
         width: 250px;
         text-align: center;
     }
+    
+    label{
+        font-size: 1.5rem;
+    }
 
     input {
         width: 50%;
@@ -57,10 +61,13 @@
 
 
 /* Media Query */
-/* Media Query */
 @media (max-width: 768px) {
     .title {
         font-size: 2rem;
+    }
+    
+    label{
+        font-size: 1rem;
     }
 
     .col {

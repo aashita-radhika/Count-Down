@@ -1,4 +1,4 @@
-const endDate = "25 August 2024 12:00 AM"
+const endDate = "25 August 2025 12:00 AM"
 
 document.getElementById("end-Date").innerText = endDate // Dynamic 
 
